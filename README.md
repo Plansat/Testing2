@@ -2,7 +2,12 @@
 # Testing 3
 ## Testing 4
 
-1. listi 1
-1. listi 2
-1. listi 3
+<<<<<<< HEAD
+=======
+## Bullett
 
+* Listi
+* Listi
+* listi
+>>>>>>> grein1
+ 
