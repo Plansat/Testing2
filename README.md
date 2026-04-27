@@ -14,3 +14,7 @@
 
 
 [Tækniskólinn](https://www.tskoli.is)
+
+
+
+![Tækniskólinn](https://tskoli.is/wp-content/uploads/2017/07/Tækniskólinn.Háteigsvegi-1-768x463.jpg)
