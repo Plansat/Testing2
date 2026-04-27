@@ -11,3 +11,6 @@
 * Listi
 * Listi
 * listi
+
+
+[Tækniskólinn](https://www.tskoli.is)
